@@ -1,2 +1,4 @@
-# Recriando-a-p-gino-do-Instagram
+# Recriando-a-pagina-do-Instagram
 Projeto recriando a página do Instagram
+
+Inacio Pascoal
